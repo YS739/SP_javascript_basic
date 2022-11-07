@@ -36,3 +36,5 @@
 let age = 47
 console.log(age)
 
+const name = 'yunny'
+console.log(name)
